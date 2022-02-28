@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarkable passages from Nottingham, Lichfield, Leicester, and Cambridge declaring what the Kings standard is, and the time and manner of its setting up. Also how Lichfield and Tamworth are disarmed, and the Lord Gray his house disarmed and pillaged by the traiterous cavaliers. Together with some other remarkable occurrents.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92396</idno>
+            <idno type="STC">Wing R923</idno>
+            <idno type="STC">Thomason 669.f.6[75]</idno>
+            <idno type="STC">ESTC R212505</idno>
+            <idno type="EEBO-CITATION">99871115</idno>
+            <idno type="PROQUEST">99871115</idno>
+            <idno type="VID">160936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160936)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[75])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarkable passages from Nottingham, Lichfield, Leicester, and Cambridge declaring what the Kings standard is, and the time and manner of its setting up. Also how Lichfield and Tamworth are disarmed, and the Lord Gray his house disarmed and pillaged by the traiterous cavaliers. Together with some other remarkable occurrents.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Underhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 1. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>A letter from a gentleman neere Nottingham, to a friend in London -- An information from Leicester -- From Lichfield -- An extract of a letter from an honest scholar of Cambridge, to one in Woodstreet, dated Aug. 30.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Nottingham (England) --  History --  Early works to 1800.</term>
+               <term>Lichfield (England) --  History --  Early works to 1800.</term>
+               <term>Leicester (England) --  History --  Early works to 1800.</term>
+               <term>Cambridge (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:160936:1" rendition="simple:additions"/>
+            <head>Remarkable Paſſages from Nottingham, Lichfield, Leiceſter, and Cambridge: Declaring what
+the Kings Standard is, and the time and manner of its ſetting up. Alſo how Lichfield and
+Tamworth are diſarmed, and the Lord Gray his houſe diſarmed and pillaged by the
+traiterous Cavaliers. Together with ſome other Remarkable Occurrents.</head>
+            <div type="letter">
+               <head>A Letter from a Gentleman neere Nottingham, to a friend in London.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Received your laſt Letter and Books, for which I thank you, as alſo D. <hi>D.</hi> for his. I came on Wedneſday night
+laſt from the Court at <hi>Nottingham,</hi> where I ſaw the King ſet up his Standard on Munday night before: The
+manner whereof was this: His Majeſty came into the Caſtle-yard, accompanied with the Prince, Duke, Prince
+<hi>Robert,</hi> and <hi>Maurice</hi> his brother; the Duke of <hi>Richmond,</hi> and divers other Courtiers and Cavaliers: and finding
+out the higheſt pointed hill in the Yard, from whence it might be perſpicuous, the Standard was brought in, &amp;
+there erected: At which all the Courtiers and Spectators flung up their caps, and whooped, crying, <hi>God ſave
+King Charles, and hang up the Round-heads,</hi> and ſo whooped the King to his lodgings. After which the Standard
+was thence removed to the higheſt Tower of the Caſtle, where it hangs blowing, and ſo muſt, till the King advanceth his Camp
+for ward; then it removes with him. It is a long pole like a May-pole, dyed red, on the upper end whereof hangs a large ſilke
+flag, (in forme of a Scutchion) with a Red Croſſe, and two Lyon Paſſants upon two Crownes. The Prince <hi>Robert</hi> was next day
+made Generall of the Horſe, and had a Ribbon and George delivered him, and ſo had the Duke of <hi>York.</hi> And the King made De<g ref="char:EOLhyphen"/>claration,
+that who ſo would goe that afternoone with Prince <hi>Robert</hi> againſt <hi>Coventry</hi> and <hi>Warwick,</hi> it ſhould be acceptable ſer<g ref="char:EOLhyphen"/>vice.
+Whereupon he and divers went away thither, where the King had ſent about 600. Horſe and Foot a weeke before, who
+had on Saturday and Sunday laſt been beaten by the men of <hi>Coventry</hi> (who keep the Cavaliers out) having ſlain one, and woun<g ref="char:EOLhyphen"/>ded
+divers of them, and themſelves loſt two or three. <hi>Warwick</hi> Caſtle keeps them off, where twelve men have been ſlaine, moſt
+of the Kings ſide. There is no conſiderable party at <hi>Nottingham</hi> to doe any thing: Munday and Tueſday very few came in; but
+there is great expectation of multitudes from <hi>Wales</hi> and <hi>Weſtmerland. York-ſhire</hi> ſtands firme. Drums beat about <hi>Nottingham</hi> for
+Voluntiers, for the King will be at <hi>Lincolne</hi> this night, where all the Gentry are ſummoned to meet him. Troops of Horſe are
+comming to be billeted in our Countie, we feare outrages by them. They commit rapine and ſpoile already about <hi>Nottingham,</hi>
+having ranſackt Gentlemens houſes, made one Maſter <hi>Needhams</hi> owne Cart bring away to <hi>Nottingham,</hi> bedding, linnen, pewter,
+butter, bacon, cheeſe, and other things out of his houſe. He is accounted a Round-head. So at <hi>York,</hi> ſixteen of them beſet a Knights
+houſe, (whom the King had diſ-Juſticed) broke in, ſought for the Knight, whom they would have ſlaine, as themſelves declared;
+but he getting away, (by the help of his ſervants) they took 70. l. in money, his plate, and divers other things, and ſo returned.
+Some of them are apprehended. They give out that Round-heads eſtates ſhall be free prize, and indeed againſt them is the
+quarrell, whom the Lord I hope will protect. My houſe is much threatned, and I doe verily expect an aſſault, for which I have
+prepared to defend my ſelfe. We think the Parliaments Forces too ſlow in comming downe.</p>
+            </div>
+            <div type="report">
+               <head>An Information from Leiceſter.</head>
+               <p>UPon Friday the 26. day of <hi>Aug. 1642.</hi> the ſame morning that the Earles of <hi>Dorſet, Southampton,</hi> Sir <hi>John Culpepper,</hi> and Sir
+<hi>William Vvedall</hi> ſet out from the King with a meſſage to the high Court of Parliament, pretending ſome willingneſſe in
+His Majeſty to have perſons choſe of both ſides to treat about a Peace between His Majeſty and the Parliament; Prince <hi>Robert,</hi>
+(who hath need enough of the Parliaments help to re-poſſeſſe him in his Kingdome, and eſtates in the Palatinate) together with
+Maſter <hi>Haſtings,</hi> and many Cavaliers, went to my Lord <hi>Gray</hi> the Earle of Stamford his houſe, from whence they tooke all his
+Armes, and tooke away and ſpoiled all his goods, and alſo the cloathes of his Chaplaine, who was faine to fly for his life: And
+ſome chiefe ones asked, Where are the brats, the young children, ſwearing God damne them they would kill them, that there
+might be no more of the breed of them: but God ſtirred up ſome friends to ſuccour them. They have alſo diſarmed many of the
+Inhabitants thereabout, and taken away many of their goods, but no doubt their accompt is at hand. <hi>Amen Lord.</hi>
+               </p>
+            </div>
+            <div type="report">
+               <head>From Lichfield.</head>
+               <p>THe Lord <hi>Paget</hi> and his followers have gathered 3. or 400. of the ſcum and refuge of the Countrey, and billeted them in <hi>Lich<g ref="char:EOLhyphen"/>field,</hi>
+a place more plyable to yeeld to wicked mens deſignes, then moſt other places, by reaſon of the Cathedrall, debaucht
+fellowes that have infected the towne, and the want of powerfull preaching ever ſince Reformation, where the Cavaliers and
+their ſcums have diſarmed every man in the towne, (Maſter <hi>Noble,</hi> a Parliament man, and the two Bailiffes, and Sheriffes not ex<g ref="char:EOLhyphen"/>cepted)
+and ſeized upon the Magazine of the City, and exerciſe their ſouldiers with their Armes. They alſo on a ſudden ſurpriſed
+<hi>Tamworth,</hi> a great market towne, and have ſerved them in the like manner: cauſed Maſter <hi>Blake,</hi> a godly Miniſter to fly, ſent Maſter
+<hi>Black</hi> the Schoolmaſter to the King, and impriſoned about foure or ſixe honeſt eminent men in the Caſtle there, becauſe (as they
+ſay) they are Round-heads. All which might have been prevented, had that populous towne ſtood upon her guard, and ſent out
+ſcouts (as valiant <hi>Bermingham</hi> doth) For Gods and the Parliaments enemies are ſtout and couragious, where they are feared, and
+not oppoſed; but feeble and cowardly where manfully withſtood. Then be couragious, oh England; let us labour and pray for
+courage; as well as for victory, and God will deſtroy all thoſe that riſe up againſt his people, (becauſe they are ſuch) reproach<g ref="char:EOLhyphen"/>fully
+calling them Round-heads. <hi>Even ſo be it. Amen Lord.</hi>
+               </p>
+               <p>THere is certaine intelligence that the Lord <hi>Paget,</hi>
+                  <note place="margin">Aug. 29.</note> Sir <hi>Thomas Holt,</hi> and many great ones, having gathered together
+in <hi>Lichfield</hi> Cloſe or Palace for refuge, hearing that my Lo: <hi>Brooks</hi> was comming againſt them, they &amp; all the Cava<g ref="char:EOLhyphen"/>liers
+and ſouldiers moſt manfully fled for fear, and ſo have left the town, but the poore townſmen are cheated of their Arms.</p>
+               <p>The ſame day certaine intelligence came to the Parliament of the valiant <hi>Northampton-ſhire</hi> mens diſcomfiting 300. Troopers
+going from <hi>Nottingham</hi> to <hi>Oxford,</hi> intending to pillage <hi>Daventrye</hi> as they went, but many of them were killed, about forty of them
+taken priſoners, and the reſt fled, God be praiſed for it.</p>
+            </div>
+            <div type="letter">
+               <head>An extract of a Letter from an honeſt Scholar of Cambridge, to one in Woodſtreet, dated Aug. 30.</head>
+               <p>SIr, I thanke you for your good intelligence, and for a requitall, take this good news: There came hither 400. Voluntiers, Citizens of London, well
+armed, laſt night, who have taken the Earle of <hi>Carlile,</hi> Doctor <hi>Sterne,</hi> and other malignants, priſoners, and have alſo beſet moſt of the Colledges in
+Towne, for all which, praiſed be the Lord of Hoſts: for now they begin to ſhake and quiver, that not long ſince were a terror to others. And take no<g ref="char:EOLhyphen"/>tice
+of this, as the ſumme of my late ſtudies, That that ſide which conſiſts of good religious men, take up Armes at the call of God, (the call of ſupreme
+Authority which reſides in Parliament, and the call of Neceſſity is the call of God) for the maintenance of Piety and Learning, of the priviledge of Parli<g ref="char:EOLhyphen"/>aments,
+(the old and beſt Government of England) and propriety of the Subject, and for the ſafety of the Kings Perſon, which is now in great danger,
+having God, all the godly and their prayers on their ſide, muſt needs prevaile againſt that party that is Papiſticall and Atheiſticall, which oppoſeth all
+theſe, and whoſe quarrell is chiefly againſt thoſe that have moſt of God in them, who they are fooliſhly pleaſed to call <hi>Round-heads.</hi> I wiſh they would
+repent and come in before they are confounded. Thus deſiring to heare from you by the returne of the Carryer, I reſt,</p>
+               <closer>
+                  <dateline>
+                     <date>Aug. <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0.</date>
+                  </dateline>
+                  <signed>Yours.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for T. Underhill. Sept. 1. 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
